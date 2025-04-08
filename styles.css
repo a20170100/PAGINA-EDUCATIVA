@@ -1,0 +1,18 @@
+h1 {
+  text-decoration: underline;
+  color: crimson;
+  text-align: center;
+}
+body {
+  background-color: blanchedalmond;
+}
+p {
+  text-align: justify;
+  font-size: 20px;
+  font-family: "Comic-Sans MS";
+}
+img {
+  height: 300px;
+  display: block;
+  justify-self: center;
+}
